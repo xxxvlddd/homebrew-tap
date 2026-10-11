@@ -1,6 +1,6 @@
 cask "greenfox" do
-  version "0.7.4"
-  sha256 "919a5aec1cf5fee4f9c91b7ccf8b4b71fbbba52c5ad8f89887513608c555bb61"
+  version "0.7.5"
+  sha256 "20136514366afd74846d1f73ef64a8d1c1bf0479471ad1b38d03a764a02d93f8"
 
   url "https://github.com/xxxvlddd/greenfox/releases/download/v#{version}/GREENFOX-arm64.dmg"
   name "GREENFOX"
